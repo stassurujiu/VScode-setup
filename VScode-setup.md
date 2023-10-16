@@ -29,6 +29,8 @@ I use the [One Monokai Theme](https://marketplace.visualstudio.com/items?itemNam
 
 
 # Theme colors + other settings 
+**Please be free to change colors according to your style if you didn't like mine**
+
 My `settings.json` file:
 
 ```
