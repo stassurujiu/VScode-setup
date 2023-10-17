@@ -103,6 +103,7 @@ My `settings.json` file:
 
     // Culoarea la linie verticala
     "editorIndentGuide.background1": "#5f6c7dba",
+    "editorIndentGuide.activeBackground1": "#a9bfdcc5",
 
     // Main color
     "editor.background": "#27262a",
